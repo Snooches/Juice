@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerBackend", "PlayerBackend\PlayerBackend.csproj", "{A2E90864-26C5-4A29-8BF3-B13B9AE3C1D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonClasses", "CommonClasses\CommonClasses.csproj", "{55B5F4BA-FCFF-42FD-A4E9-645AA8AB66EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugConsoleUI", "DebugConsoleUI\DebugConsoleUI.csproj", "{53D7C962-E911-4704-9C88-2BDAF5FFD670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2E90864-26C5-4A29-8BF3-B13B9AE3C1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E90864-26C5-4A29-8BF3-B13B9AE3C1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E90864-26C5-4A29-8BF3-B13B9AE3C1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E90864-26C5-4A29-8BF3-B13B9AE3C1D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55B5F4BA-FCFF-42FD-A4E9-645AA8AB66EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B5F4BA-FCFF-42FD-A4E9-645AA8AB66EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B5F4BA-FCFF-42FD-A4E9-645AA8AB66EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B5F4BA-FCFF-42FD-A4E9-645AA8AB66EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D7C962-E911-4704-9C88-2BDAF5FFD670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D7C962-E911-4704-9C88-2BDAF5FFD670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D7C962-E911-4704-9C88-2BDAF5FFD670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D7C962-E911-4704-9C88-2BDAF5FFD670}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
