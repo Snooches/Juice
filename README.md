@@ -1,4 +1,7 @@
 # Juice
+
+!!! This project is on hold until I find a practical platform independent way to play audio files. A lot of libraries seem to be close to this, but as of right none seem to provide what I need without having to implement different players for each platform !!!
+
 The goal of this repo is to give me the opportunity to try out things I would not otherwise and also result in applications that I will hopefully use quite a bit.
 
 The intention is to create a suite of apps to manage my music library I want to build this very modular so that once the basic building blocks are there I can work on whatever part I feel like at the time.
